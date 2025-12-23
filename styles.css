@@ -1,0 +1,29 @@
+body 
+{ 
+    font-family: Arial, sans-serif; 
+}
+
+.card
+{
+    width: 360px;
+    margin: 40px auto;
+    padding: 24px;
+    background: #f6efe9;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.label
+{ 
+    font-size: 20px; margin-bottom: 8px; 
+}
+
+.num
+{
+    font-size: 64px; font-weight: 700; margin: 8px 0 18px; 
+}
+
+button
+{
+     padding: 8px 14px; 
+}
