@@ -1,0 +1,31 @@
+html, body 
+{
+    height: 100%; margin: 0; 
+}
+
+#area
+{
+    width: 100vw;
+    height: 100vh;
+    background: #979595;
+    display: grid;
+    place-items: center;
+    font-family: Arial, sans-serif;
+    user-select: none;
+}
+
+#out
+{
+    font-size: 56px;
+    color: #222;
+    letter-spacing: 0.5px;
+}
+
+#hint
+{
+    position: fixed;
+    left: 12px;
+    bottom: 12px;
+    font-size: 14px;
+    opacity: 0.75;
+}
