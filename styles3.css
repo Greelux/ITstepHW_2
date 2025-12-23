@@ -1,0 +1,27 @@
+body
+{ 
+    font-family: Arial, sans-serif; padding: 40px; 
+}
+
+.wrap
+{
+    width: 520px; 
+}
+
+button
+{
+    padding: 6px 10px; margin-bottom: 10px;
+}
+
+.box
+{
+    background: #f6efe9;
+    padding: 14px;
+    border-radius: 6px;
+    line-height: 1.45;
+}
+
+.hidden
+{
+    display: none;
+}
